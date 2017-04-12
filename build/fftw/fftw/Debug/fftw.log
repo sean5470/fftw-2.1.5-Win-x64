@@ -1,0 +1,167 @@
+﻿Build started 3/25/2016 10:25:21 AM.
+     1>Project "H:\Builds\sources\fftw-2.1.5\build\fftw\fftw\fftw.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\fftw\config.c ..\..\..\fftw\executor.c ..\..\..\fftw\fftwf77.c ..\..\..\fftw\fftwnd.c ..\..\..\fftw\fni_1.c ..\..\..\fftw\fni_10.c ..\..\..\fftw\fni_11.c ..\..\..\fftw\fni_12.c ..\..\..\fftw\fni_13.c ..\..\..\fftw\fni_14.c ..\..\..\fftw\fni_15.c ..\..\..\fftw\fni_16.c ..\..\..\fftw\fni_2.c ..\..\..\fftw\fni_3.c ..\..\..\fftw\fni_32.c ..\..\..\fftw\fni_4.c ..\..\..\fftw\fni_5.c ..\..\..\fftw\fni_6.c ..\..\..\fftw\fni_64.c ..\..\..\fftw\fni_7.c ..\..\..\fftw\fni_8.c ..\..\..\fftw\fni_9.c ..\..\..\fftw\fn_1.c ..\..\..\fftw\fn_10.c ..\..\..\fftw\fn_11.c ..\..\..\fftw\fn_12.c ..\..\..\fftw\fn_13.c ..\..\..\fftw\fn_14.c ..\..\..\fftw\fn_15.c ..\..\..\fftw\fn_16.c ..\..\..\fftw\fn_2.c ..\..\..\fftw\fn_3.c ..\..\..\fftw\fn_32.c ..\..\..\fftw\fn_4.c ..\..\..\fftw\fn_5.c ..\..\..\fftw\fn_6.c ..\..\..\fftw\fn_64.c ..\..\..\fftw\fn_7.c ..\..\..\fftw\fn_8.c ..\..\..\fftw\fn_9.c ..\..\..\fftw\ftwi_10.c ..\..\..\fftw\ftwi_16.c ..\..\..\fftw\ftwi_2.c ..\..\..\fftw\ftwi_3.c ..\..\..\fftw\ftwi_32.c ..\..\..\fftw\ftwi_4.c ..\..\..\fftw\ftwi_5.c ..\..\..\fftw\ftwi_6.c ..\..\..\fftw\ftwi_64.c ..\..\..\fftw\ftwi_7.c ..\..\..\fftw\ftwi_8.c ..\..\..\fftw\ftwi_9.c ..\..\..\fftw\ftw_10.c ..\..\..\fftw\ftw_16.c ..\..\..\fftw\ftw_2.c ..\..\..\fftw\ftw_3.c ..\..\..\fftw\ftw_32.c ..\..\..\fftw\ftw_4.c ..\..\..\fftw\ftw_5.c ..\..\..\fftw\ftw_6.c ..\..\..\fftw\ftw_64.c ..\..\..\fftw\ftw_7.c ..\..\..\fftw\ftw_8.c ..\..\..\fftw\ftw_9.c ..\..\..\fftw\generic.c ..\..\..\fftw\malloc.c ..\..\..\fftw\planner.c ..\..\..\fftw\putils.c ..\..\..\fftw\rader.c ..\..\..\fftw\timer.c ..\..\..\fftw\twiddle.c ..\..\..\fftw\wisdom.c ..\..\..\fftw\wisdomio.c
+         wisdomio.c
+         wisdom.c
+     1>h:\builds\sources\fftw-2.1.5\fftw\wisdom.c(153): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+         twiddle.c
+         timer.c
+         rader.c
+         putils.c
+         planner.c
+         malloc.c
+         generic.c
+         ftw_9.c
+         ftw_8.c
+         ftw_7.c
+         ftw_64.c
+         ftw_6.c
+         ftw_5.c
+         ftw_4.c
+         ftw_32.c
+         ftw_3.c
+         ftw_2.c
+         ftw_16.c
+         Generating Code...
+         Compiling...
+         ftw_10.c
+         ftwi_9.c
+         ftwi_8.c
+         ftwi_7.c
+         ftwi_64.c
+         ftwi_6.c
+         ftwi_5.c
+         ftwi_4.c
+         ftwi_32.c
+         ftwi_3.c
+         ftwi_2.c
+         ftwi_16.c
+         ftwi_10.c
+         fn_9.c
+         fn_8.c
+         fn_7.c
+         fn_64.c
+         fn_6.c
+         fn_5.c
+         fn_4.c
+         Generating Code...
+         Compiling...
+         fn_32.c
+         fn_3.c
+         fn_2.c
+         fn_16.c
+         fn_15.c
+         fn_14.c
+         fn_13.c
+         fn_12.c
+         fn_11.c
+         fn_10.c
+         fn_1.c
+         fni_9.c
+         fni_8.c
+         fni_7.c
+         fni_64.c
+         fni_6.c
+         fni_5.c
+         fni_4.c
+         fni_32.c
+         fni_3.c
+         Generating Code...
+         Compiling...
+         fni_2.c
+         fni_16.c
+         fni_15.c
+         fni_14.c
+         fni_13.c
+         fni_12.c
+         fni_11.c
+         fni_10.c
+         fni_1.c
+         fftwnd.c
+         fftwf77.c
+         executor.c
+         config.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"H:\Builds\sources\fftw-2.1.5\build\fftw\Debug\fftw.lib" /NOLOGO Debug\config.obj
+         Debug\executor.obj
+         Debug\fftwf77.obj
+         Debug\fftwnd.obj
+         Debug\fni_1.obj
+         Debug\fni_10.obj
+         Debug\fni_11.obj
+         Debug\fni_12.obj
+         Debug\fni_13.obj
+         Debug\fni_14.obj
+         Debug\fni_15.obj
+         Debug\fni_16.obj
+         Debug\fni_2.obj
+         Debug\fni_3.obj
+         Debug\fni_32.obj
+         Debug\fni_4.obj
+         Debug\fni_5.obj
+         Debug\fni_6.obj
+         Debug\fni_64.obj
+         Debug\fni_7.obj
+         Debug\fni_8.obj
+         Debug\fni_9.obj
+         Debug\fn_1.obj
+         Debug\fn_10.obj
+         Debug\fn_11.obj
+         Debug\fn_12.obj
+         Debug\fn_13.obj
+         Debug\fn_14.obj
+         Debug\fn_15.obj
+         Debug\fn_16.obj
+         Debug\fn_2.obj
+         Debug\fn_3.obj
+         Debug\fn_32.obj
+         Debug\fn_4.obj
+         Debug\fn_5.obj
+         Debug\fn_6.obj
+         Debug\fn_64.obj
+         Debug\fn_7.obj
+         Debug\fn_8.obj
+         Debug\fn_9.obj
+         Debug\ftwi_10.obj
+         Debug\ftwi_16.obj
+         Debug\ftwi_2.obj
+         Debug\ftwi_3.obj
+         Debug\ftwi_32.obj
+         Debug\ftwi_4.obj
+         Debug\ftwi_5.obj
+         Debug\ftwi_6.obj
+         Debug\ftwi_64.obj
+         Debug\ftwi_7.obj
+         Debug\ftwi_8.obj
+         Debug\ftwi_9.obj
+         Debug\ftw_10.obj
+         Debug\ftw_16.obj
+         Debug\ftw_2.obj
+         Debug\ftw_3.obj
+         Debug\ftw_32.obj
+         Debug\ftw_4.obj
+         Debug\ftw_5.obj
+         Debug\ftw_6.obj
+         Debug\ftw_64.obj
+         Debug\ftw_7.obj
+         Debug\ftw_8.obj
+         Debug\ftw_9.obj
+         Debug\generic.obj
+         Debug\malloc.obj
+         Debug\planner.obj
+         Debug\putils.obj
+         Debug\rader.obj
+         Debug\timer.obj
+         Debug\twiddle.obj
+         Debug\wisdom.obj
+         Debug\wisdomio.obj
+         Debug\stdafx.obj
+         fftw.vcxproj -> H:\Builds\sources\fftw-2.1.5\build\fftw\Debug\fftw.lib
+     1>Done Building Project "H:\Builds\sources\fftw-2.1.5\build\fftw\fftw\fftw.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.27
