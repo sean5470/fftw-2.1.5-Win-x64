@@ -2,7 +2,8 @@ Description
 FFTW 2.1.5, a collection of fast C routines to compute the Discrete
 Fourier Transform in one or more dimensions.
 
-AUTHOR of Solution File: ~Sweet~
+AUTHOR of Solution File: ~ Sweet ~
+
 Visual Studio 2013 Solution File: 'build/fftw_rfftw-VS2013.sln'
 
 The solution file was created in Visual Studio 2013
